@@ -1,2 +1,3 @@
 # data-analyst-portfolio
 SQL, Python, and BI portfolio built while moving from over 10 years in technical education and certification program management into data analytics.
+I'm Makiko Tsuda. I spent over 10 years building and running certification programs — most recently scaling UiPath's portfolio from 2 to 12 certifications — and the part of that work I kept gravitating toward was the data: the dashboards, the KPI reporting, the cross-source analysis that told us whether a program was actually working. This repo is where I'm building that into a standalone skill set: SQL, Python, and BI tools applied to real questions, documented end to end.
