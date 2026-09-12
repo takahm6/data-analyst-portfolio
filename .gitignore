@@ -217,3 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 **/raw/
+!**/raw/sample.csv
+
+# Future, potential project - ignore for now
+project-puzzle/
