@@ -1,0 +1,19 @@
+# Raw Divvy trip files (about 1.1 GB). Download from https://divvy-tripdata.s3.amazonaws.com/index.html
+raw/
+
+# Old intermediate files no longer produced by the notebooks
+processed/archive/
+
+# Clean ride table (about 280 MB, over GitHub's 100 MB file limit). Recreate by running 01_prepare_and_clean.ipynb
+processed/rides_2025_clean.parquet
+
+# Earlier exploratory notebook, replaced by 01 and 02
+notebooks/bikeshare_dataanalysis.ipynb
+
+# Local caches and editor files
+notebooks/cache/
+.ipynb_checkpoints/
+__pycache__/
+
+# The Case Study PDF. This is a course material from Google Data Analytics Professional Certificate.
+*.pdf

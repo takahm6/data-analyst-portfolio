@@ -1,0 +1,552 @@
+name,category,notable,lat,lng,layer
+The Art Institute of Chicago,museum,True,41.8795594,-87.6225683,Place
+Glessner House Museum,museum,True,41.857721899999994,-87.6212227,Place
+Northerly Island,park,True,41.8601992,-87.6091975,Place
+Mark Twain Park,park,False,41.8607867,-87.6210011,Place
+Humboldt (Alexander Von) Park,park,True,41.9042451,-87.7019325,Place
+Richard Clark Park,park,False,41.94309659999999,-87.6939277,Place
+Ping Tom Memorial Park,park,True,41.8574861,-87.6343804,Place
+Eckhart Park,park,True,41.897099000000004,-87.6611927,Place
+Wicker Park,park,True,41.9080017,-87.6761743,Place
+Cotton Tail Park,park,False,41.86248379999999,-87.628876,Place
+Coliseum Park,park,False,41.862150299999996,-87.6261809,Place
+D'Angelo Park,park,False,41.87549289999998,-87.6349408,Place
+"Blue Cross Blue Shield of Illinois ""Great Lawn""",park,False,41.882650199999986,-87.6191357,Place
+Lincoln (Abraham) Park,park,True,41.9410389,-87.6330124,Place
+Bloomingdale Trail Park,park,True,41.9139596,-87.69405710000001,Place
+Burnham Park,park,True,41.829902299999986,-87.5970227,Place
+Aqua Lifestyle Garden,park,False,41.88632510000001,-87.6199027,Place
+"Radisson Blu Aqua Hotel, Chicago",hotel,False,41.88651310000001,-87.6201516,Place
+River Esplanade,park,True,41.8890719,-87.6185269,Place
+Sable at Navy Pier,hotel,False,41.89135699999999,-87.6028372,Place
+Gold Star Families Park,park,True,41.862703499999995,-87.6141141,Place
+Connors Park,park,False,41.898748100000006,-87.6266819,Place
+Grant Park,park,True,41.8765883,-87.6183046,Place
+Eugenie Triangle,park,False,41.9132579,-87.6330827,Place
+Shoreline Sightseeing,attraction,False,41.8891445,-87.62251720000002,Place
+Union Park,park,True,41.8838595,-87.665184,Place
+Douglass (Anna and Frederick) Park,park,True,41.8609632,-87.6993812,Place
+Millennium Park,park,True,41.8826167,-87.6225177,Place
+The Peggy Notebaert Nature Museum,museum,True,41.9267866,-87.6351944,Place
+Chicago History Museum,museum,True,41.911990799999984,-87.63152090000001,Place
+Museum of Contemporary Art,museum,True,41.8972189,-87.6212206,Place
+Navy Pier,attraction,True,41.89173120000001,-87.6041467,Place
+Field Museum,museum,True,41.866211099999994,-87.61689660000002,Place
+Travelodge Chicago,hotel,False,41.8742437,-87.6255038,Place
+Holstein Park,park,True,41.9216572,-87.6850993,Place
+Senior Citizens Memorial Park,park,True,41.92303969999998,-87.6855954,Place
+Chase Park,park,False,41.96773439999999,-87.6682483,Place
+Welles Park,park,True,41.9622584,-87.6862728,Place
+Horner Park,park,True,41.95765449999999,-87.6964701,Place
+Revere Park,park,True,41.9530521,-87.6920731,Place
+Hamlin Park,park,True,41.9368422,-87.67950280000001,Place
+Trebes Park,park,False,41.92205249999999,-87.6577406,Place
+Jonquil Park,park,True,41.92854069999999,-87.6547006,Place
+Wrightwood Park,park,True,41.92823469999999,-87.6670247,Place
+Oz Park,park,True,41.920603699999994,-87.6456648,Place
+Seward Park,park,True,41.90245199999998,-87.6387978,Place
+Goudy Square Park,park,True,41.90558,-87.6268534,Place
+Byline Bank Aragon Ballroom,attraction,True,41.969431099999994,-87.6580259,Place
+Bickerdike Square Park,park,True,41.8922949,-87.6647373,Place
+Skinner Park,park,True,41.879616899999995,-87.6617247,Place
+Park No. 598,park,False,41.90969059999998,-87.64434859999999,Place
+Durso Park,park,True,41.89823199999999,-87.6396142,Place
+Dvorak Park,park,False,41.8539004,-87.65393009999998,Place
+Haas Park,park,True,41.9251629,-87.6959759,Place
+Erhler Park,park,True,41.9163333,-87.6837183,Place
+Walsh Park,park,True,41.9136844,-87.66845220000002,Place
+Pulaski Park,park,True,41.90612019999998,-87.663305,Place
+Ellis Park,park,True,41.82920649999999,-87.61071970000002,Place
+Clybourn Park,park,True,41.913219899999994,-87.6523116,Place
+Sun Yat-Sen Park,park,False,41.84804200000001,-87.6341665,Place
+Helen Zatterburg Park,park,False,41.9592843,-87.6727901,Place
+UIC South Fields,park,False,41.8642614,-87.6494045,Place
+Trump International Hotel & Tower Chicago,hotel,True,41.888872799999994,-87.6264574,Place
+Sonder Plymouth,hotel,False,41.87633869999999,-87.6289862,Place
+The Standard Club,hotel,False,41.8776806,-87.6290179,Place
+Pritzker Park,park,False,41.87741739999999,-87.6282403,Place
+Union League Club,hotel,True,41.87787109999999,-87.6300227,Place
+Hilton Garden Inn Chicago Central Loop,hotel,False,41.87843099999999,-87.6348909,Place
+"THE MIDLAND HOTEL, Chicago, a Tribute Portfolio Hotel",hotel,False,41.87975269999999,-87.63314400000002,Place
+Roosevelt Park,park,True,41.868082999999984,-87.62989140000002,Place
+Doane Observatory,attraction,False,41.86637330000001,-87.6059114,Place
+Battle of Fort Dearborn Park,park,False,41.85780499999999,-87.6192568,Place
+Swissotel Chicago,hotel,True,41.887361,-87.619528,Place
+Palmisano (Henry) Park,park,False,41.84294309999999,-87.6490567,Place
+Giddings Plaza,park,False,41.9676429,-87.68755720000001,Place
+Buffalo Park,park,True,41.96330959999999,-87.6982483,Place
+Vogle Park,park,True,41.969001799999994,-87.6818754,Place
+Fellger Park,park,True,41.939829199999984,-87.6789321,Place
+Gross Park,park,True,41.9691051,-87.6966734,Place
+Printers Row Park,park,False,41.87336320000001,-87.6294302,Place
+"Staypineapple, An Iconic Hotel, The Loop",hotel,True,41.88304229999999,-87.6282334,Place
+Smith Park,park,True,41.89265940000001,-87.6904468,Place
+Bosley Park,park,True,41.839031,-87.6536806,Place
+University Club of Chicago,hotel,False,41.8810047,-87.6249694,Place
+Mariano Park,park,True,41.90192199999999,-87.6281538,Place
+Washington Square,park,True,41.899265,-87.6305847,Place
+Heritage Green Park,park,False,41.879634,-87.643519,Place
+Mary Bartelme Park,park,False,41.879804400000005,-87.6502158,Place
+Hoyne Park,park,True,41.8314871,-87.6783602,Place
+Kucinski-Murphy Park,park,True,41.8329851,-87.6666393,Place
+Arrigo Park,park,True,41.87167699999999,-87.659848,Place
+Garibaldi Park,park,True,41.8723391,-87.6653046,Place
+Jefferson Playlot Park,park,False,41.8591307,-87.6421192,Place
+Altgeld Park,park,True,41.8743842,-87.69261130000001,Place
+Lake Meadows Park,park,True,41.8375342,-87.6118958,Place
+Stephen A. Douglas Monument Park,park,True,41.831564199999995,-87.6082173,Place
+Dearborn Park,park,True,41.870960200000006,-87.6290882,Place
+Park No. 489,park,True,41.878941000000005,-87.6872059,Place
+Touhy-Herbert Park,park,True,41.87934309999999,-87.6793645,Place
+Butler Field,park,True,41.8796294,-87.6191004,Place
+Jane M. Byrne Plaza,park,False,41.8971705,-87.624553,Place
+Seneca Park,park,True,41.897201300000006,-87.6223428,Place
+Lakefront Park,park,False,41.901391999999994,-87.6218663,Place
+The Drake Hotel,hotel,True,41.90042119999999,-87.6234189,Place
+The Whitehall Hotel,hotel,False,41.89896149999999,-87.6257368,Place
+Selina Hotel Chicago,hotel,False,41.8985756,-87.625615,Place
+Sofitel Chicago Magnificent Mile,hotel,True,41.89868289999999,-87.6273173,Place
+Hilton Chicago/Magnificent Mile Suites,hotel,False,41.8996519,-87.6221728,Place
+Millennium Knickerbocker Hotel Chicago,hotel,False,41.8997895,-87.6227267,Place
+The Walton Residence,hotel,False,41.9002351,-87.6251874,Place
+The Talbott Hotel,hotel,False,41.89939429999999,-87.6274838,Place
+Raffaello Hotel,hotel,False,41.8990046,-87.6216043,Place
+Sonesta ES Chicago Downtown Magnificent Mile,hotel,False,41.89980139999999,-87.6213915,Place
+Fairmont Hotel Chicago,hotel,True,41.886094,-87.6211527,Place
+Renaissance Chicago Downtown Hotel,hotel,False,41.886296,-87.6284886,Place
+The Wit Hotel,hotel,False,41.886060999999984,-87.6276222,Place
+Park No. 529,park,False,41.91242400000001,-87.6818759,Place
+Congress Plaza Hotel,hotel,True,41.875074600000005,-87.6248357,Place
+"The Blackstone, Autograph Collection",hotel,True,41.87335740000001,-87.6247909,Place
+La Quinta Inn & Suites by Wyndham Chicago Downtown,hotel,False,41.8815738,-87.6349916,Place
+Residence Inn Chicago Downtown/Loop,hotel,True,41.8816856,-87.6319511,Place
+Mary Richardson Jones Park,park,False,41.866085299999995,-87.6289604,Place
+Best Western Grant Park Hotel,hotel,False,41.86910329999999,-87.6246903,Place
+Virgin Hotels Chicago,hotel,True,41.88606399999999,-87.6260286,Place
+Hyatt Place Chicago/Downtown - The Loop,hotel,False,41.88272969999999,-87.6356562,Place
+The Royal Sonesta Chicago Downtown,hotel,False,41.88738589999999,-87.6256742,Place
+"Club Quarters Hotel, Wacker at Michigan",hotel,True,41.88761639999999,-87.6254422,Place
+Hampton Inn Chicago Downtown/North Loop,hotel,False,41.887046,-87.6254458,Place
+Chicago Athletic Association Hotel,hotel,False,41.88166979999999,-87.6249806,Place
+Hyatt Centric The Loop Chicago,hotel,False,41.8809109,-87.6311717,Place
+The Kimpton Gray Hotel,hotel,True,41.88089000000001,-87.6317631,Place
+The Palmer House Hilton,hotel,True,41.880334999999995,-87.6269524,Place
+Silversmith Hotel Chicago Downtown,hotel,True,41.88165179999999,-87.6266547,Place
+Wyndham Blake Hotel,hotel,False,41.875174,-87.6294962,Place
+Pendry Chicago,hotel,True,41.8865264,-87.6250081,Place
+Hotel Monaco,hotel,False,41.8865322,-87.6260077,Place
+The Westin Michigan Avenue Chicago,hotel,False,41.89948780000001,-87.6232349,Place
+DeWitt Place,hotel,False,41.89950240000001,-87.62040240000002,Place
+Jane Addams Hull-House Museum,museum,True,41.87165060000001,-87.647398,Place
+Crowne Plaza Chicago West Loop,hotel,False,41.8808004,-87.6468508,Place
+Holiday Inn Chicago-Downtown,hotel,False,41.874872599999996,-87.6399593,Place
+Le Méridien Essex,hotel,False,41.87170189999999,-87.6247521,Place
+Chicago Women's Park and Gardens,park,True,41.857186799999994,-87.6215118,Place
+Henry B. Clarke House,museum,True,41.857067199999996,-87.6218774,Place
+Sheridan Park,park,True,41.87083849999999,-87.6548101,Place
+Groveland Park,park,True,41.83365749999999,-87.6102408,Place
+Columbia Yacht Club,attraction,False,41.8839375,-87.6119816,Place
+The Wade,hotel,False,41.8938634,-87.6155916,Place
+Fairfield Inn & Suites Chicago Downtown/River North,hotel,False,41.8911139,-87.62998530000002,Place
+Illinois Holocaust Museum Presents Experience360,museum,True,41.8890241,-87.6285862,Place
+Kinzie Hotel,hotel,False,41.8894889,-87.6289094,Place
+Hampton Inn & Suites Chicago - Downtown,hotel,False,41.890619199999996,-87.6291976,Place
+The Westin Chicago River North,hotel,False,41.8881686,-87.6300447,Place
+Montgomery Ward Park,park,False,41.893769000000006,-87.6425221,Place
+InterContinental Chicago Hotel,hotel,False,41.89134939999999,-87.6235459,Place
+The Peninsula Chicago,hotel,True,41.8962125,-87.6249761,Place
+Four Seasons Hotel Chicago,hotel,True,41.89960500000001,-87.6250371,Place
+Waldorf Astoria Chicago,hotel,True,41.89969210000001,-87.6276158,Place
+Dunbar Park,park,True,41.84022609999999,-87.62027660000001,Place
+Farr Field,park,False,41.834346999999994,-87.62446,Place
+Armour Square Park,park,True,41.833654399999986,-87.6340047,Place
+McGuane Park,park,True,41.84064590000002,-87.6480024,Place
+Embassy Suites by Hilton Chicago Downtown,hotel,False,41.8928719,-87.6285763,Place
+"The RIVVY, Chicago Downtown, a Tribute Portfolio Hotel",hotel,False,41.8930577,-87.6257935,Place
+Hotel Audrey,hotel,False,41.89602150000001,-87.6227944,Place
+Jacob Park,park,True,41.966561,-87.6981105,Place
+Warwick Allerton Hotel Chicago,hotel,True,41.8952049,-87.62376170000002,Place
+Sunken Gardens Park,park,True,41.963328099999984,-87.695059,Place
+Churchill Field Park,park,True,41.91446179999999,-87.6769432,Place
+Challenger Park,park,False,41.9598261,-87.6570802,Place
+Riverpoint,park,False,41.8865026,-87.6390407,Place
+John Wilson Park,park,True,41.831965,-87.6546362,Place
+Juniper Park,park,True,41.948626100000006,-87.6668261,Place
+Harrison Park,park,True,41.85678579999999,-87.673507,Place
+Miller Park,park,False,41.8704715,-87.6525424,Place
+Embassy Suites by Hilton Chicago Downtown Magnificent Mile,hotel,False,41.89141419999999,-87.6196657,Place
+Claremont Park,park,True,41.873257300000006,-87.6854139,Place
+Stanton Park,park,True,41.9057057,-87.6453911,Place
+Superior Park,park,True,41.894690399999995,-87.6797536,Place
+Western Park,park,True,41.89800549999999,-87.6865674,Place
+Commercial Club Park,park,True,41.896633900000005,-87.673643,Place
+Wieboldt Park,park,True,41.93664259999999,-87.6729267,Place
+Schaefer Park,park,True,41.925736,-87.6690804,Place
+Supera Park,park,True,41.92801119999999,-87.6588864,Place
+Clover Park,park,False,41.92213250000001,-87.6635745,Place
+Dean Playground,park,True,41.90691199999999,-87.6708736,Place
+National Hellenic Museum,museum,True,41.87700170000001,-87.6468455,Place
+Park 399,park,True,41.9072896,-87.6887235,Place
+Jacolik Park,park,False,41.84379999999999,-87.6610984,Place
+Park No. 571,park,False,41.8436588,-87.6628935,Place
+Park No. 567,park,False,41.9142857,-87.6829674,Place
+Canal Origins Park,park,False,41.8429971,-87.6651744,Place
+Canalport Riverwalk Park,park,False,41.8426525,-87.6687283,Place
+Richard J. Daley Park,park,False,41.8368603,-87.6862123,Place
+Broncho Billy Playlot Park,park,True,41.9627768,-87.6605964,Place
+Sheraton Grand Chicago,hotel,False,41.8891529,-87.6194818,Place
+Hotel Lincoln,hotel,False,41.9152948,-87.6345027,Place
+National Museum of Mexican Art,museum,True,41.856173500000004,-87.6729928,Place
+Weisman Park,park,True,41.93514929999999,-87.6518398,Place
+Kenmore Park,park,False,41.93931999999999,-87.6549692,Place
+Evergreen Park,park,True,41.9397677,-87.6456817,Place
+Sheil Park,park,True,41.94567249999999,-87.6636137,Place
+Grape Park,park,True,41.9335279,-87.699252,Place
+Algonquin Park,park,True,41.935201700000015,-87.6949125,Place
+Adams Park,park,True,41.91681049999999,-87.6550816,Place
+Lake Shore Park,park,True,41.89723989999999,-87.6195125,Place
+Maplewood Park,park,True,41.9114406,-87.6912726,Place
+Park West Park,park,True,41.92884860000001,-87.6480861,Place
+Washtenaw Park,park,True,41.84585239999999,-87.6921818,Place
+South Lakeview Park,park,False,41.933680900000006,-87.6617142,Place
+California Park,park,False,41.9517594,-87.6964707,Place
+Ukrainian Institute of Modern Art,museum,True,41.89597979999999,-87.68516520000001,Place
+National Cambodian Heritage Museum,museum,False,41.9683467,-87.6999538,Place
+The Neighborhood Hotel - Little Italy,hotel,False,41.869083,-87.6628102,Place
+Courtyard by Marriott Chicago at Medical District / UIC,hotel,False,41.8737639,-87.6659266,Place
+College of Medicine Courtyard,park,False,41.87111,-87.672218,Place
+Hyatt House Chicago - Medical / University District,hotel,False,41.8738501,-87.6719868,Place
+Hotel Chicago West Loop,hotel,False,41.87795099999999,-87.6677856,Place
+Intuit Art Museum,museum,True,41.8953748,-87.6546037,Place
+Biograph Theatre,attraction,True,41.926520499999995,-87.6498015,Place
+The Willows,hotel,False,41.9338651,-87.6435666,Place
+Hotel Versey,hotel,False,41.9330558,-87.6454928,Place
+Best Western Plus Hawthorne Terrace,hotel,False,41.94412959999999,-87.6459657,Place
+Chinese American Museum of Chicago,museum,True,41.8512035,-87.6335249,Place
+Wyndham Chicago McCormick Hotel,hotel,False,41.8451778,-87.6275266,Place
+Chess Studio,museum,True,41.85361369999999,-87.62421920000001,Place
+Hotel BnB,hotel,False,41.8652258,-87.6243448,Place
+The Allegro Royal Sonesta Hotel Chicago Loop,hotel,False,41.8841781,-87.6332998,Place
+Arlo Chicago,hotel,False,41.88513069999998,-87.6249779,Place
+Ambassador Hotel,hotel,False,41.90605049999999,-87.6283159,Place
+"Inn of Chicago Magnificent Mile, an Ascend Collection hotel",hotel,False,41.89279830000001,-87.6230284,Place
+Best Western River North,hotel,False,41.892174199999985,-87.631986,Place
+Omni Chicago Hotel,hotel,False,41.89472399999999,-87.62493,Place
+"Claridge House Chicago, Tapestry Collection by Hilton",hotel,False,41.90520989999999,-87.6304457,Place
+Courtyard Chicago Downtown/Magnificent Mile,hotel,False,41.89311829999998,-87.6231006,Place
+Eurostars Magnificent Mile,hotel,False,41.8943161,-87.6284301,Place
+AC Hotel Chicago Downtown,hotel,False,41.8936097,-87.6261028,Place
+Hilton Garden Inn Chicago Downtown/Magnificent Mile,hotel,False,41.8920728,-87.6277635,Place
+Residence Inn Chicago Downtown Magnificent Mile,hotel,False,41.8938252,-87.625051,Place
+Marshall Hotel,hotel,True,41.9048453,-87.6334271,Place
+ACME Hotel Company,hotel,False,41.8922395,-87.6274985,Place
+Elms Hotel,hotel,False,41.9034295,-87.6279569,Place
+Fairfield Inn & Suites Chicago Downtown/Magnificent Mile,hotel,False,41.89364979999999,-87.62193120000002,Place
+Aloft Chicago - Magnificent Mile,hotel,False,41.8931202,-87.6211313,Place
+The Chicago Hotel Collection River North,hotel,False,41.8985721,-87.6364148,Place
+Chicago Marriott Downtown Magnificent Mile,hotel,False,41.89212900000001,-87.62487,Place
+Holiday Inn Express Chicago - Magnificent Mile,hotel,False,41.8937619,-87.6270869,Place
+The Godfrey Hotel Chicago,hotel,False,41.8945777,-87.6321416,Place
+Thompson Chicago,hotel,False,41.90135829999999,-87.6274916,Place
+Freehand Chicago,hotel,False,41.8922495,-87.6273063,Place
+Hotel Felix,hotel,False,41.894630899999996,-87.6315488,Place
+Hyatt Centric Chicago Magnificent Mile,hotel,False,41.893776599999995,-87.6222411,Place
+Ivy Hotel,hotel,False,41.893114999999995,-87.6213951,Place
+Charnley-Pesky House Museum,museum,True,41.90766450000001,-87.627534,Place
+International Museum of Surgical Science,museum,True,41.91021880000001,-87.6267398,Place
+AT&T Endangered Species Carousel,attraction,False,41.921492699999995,-87.6323957,Place
+Buena Circle Park,park,False,41.95841,-87.6564571,Place
+Milton Lee Olive Park,park,True,41.89445829999999,-87.6106976,Place
+Park No. 540,park,False,41.848345999999985,-87.6290026,Place
+Gooseberry Park,park,True,41.966728999999994,-87.6630023,Place
+Waters School Garden,park,False,41.96349039999999,-87.6918042,Place
+Throop Park,park,False,41.85739639999999,-87.6585073,Place
+Aster Park,park,False,41.96661599999998,-87.6558151,Place
+Warner Garden Park,park,False,41.9573312,-87.6662089,Place
+Mulberry Park,park,False,41.83624979999998,-87.6666544,Place
+Fulton River Park,park,False,41.88874779999999,-87.6436008,Place
+Margaret Hie Ding Lin Park,park,False,41.85804549999999,-87.6267824,Place
+Fosco Park,park,False,41.864310499999995,-87.65773050000001,Place
+Jane Addams Park,park,True,41.8624552,-87.6627126,Place
+Wooden Alley,attraction,False,41.910315100000005,-87.6282477,Place
+Maggie Daley Park,park,True,41.8827196,-87.61760849999999,Place
+Bauler Park,park,False,41.916231799999984,-87.6417823,Place
+The St. Clair Hotel,hotel,False,41.89360289999998,-87.6229595,Place
+City Farm Park,park,False,41.90428260000001,-87.6425421,Place
+Clarendon Park,park,False,41.963311799999985,-87.6484436,Place
+Chicago + State Park,park,False,41.89695470000001,-87.6279235,Place
+Brands Park,park,True,41.941183,-87.6997906,Place
+Lucy Flower Park,park,True,41.91508110000001,-87.691931,Place
+South Garden,park,False,41.8787256,-87.6236145,Place
+North Garden,park,False,41.8804103,-87.6238196,Place
+Lakeshore East Park,park,False,41.8860271,-87.6177034,Place
+Hyatt Regency Chicago,hotel,True,41.88749239999999,-87.6222342,Place
+Harrison Square,park,False,41.87461509999999,-87.6724211,Place
+Hartland Park,park,False,41.9313454,-87.6725081,Place
+Chi Che Wang Park,park,False,41.933104,-87.672927,Place
+Klein Park,park,False,41.94638619999999,-87.6735081,Place
+John Kelly Park,park,False,41.9527746,-87.6569708,Place
+Polk Bros Park,park,True,41.8913122,-87.6116581,Place
+Martin Park,park,False,41.93921579999999,-87.6526714,Place
+Hilton Garden Inn Chicago / North Loop,hotel,False,41.8870447,-87.6256187,Place
+Marriott Marquis,hotel,False,41.85367750000001,-87.620226,Place
+Piazza Italia di Chicago,park,False,41.869579699999996,-87.6628715,Place
+City Mini Golf,attraction,False,41.882179099999995,-87.619914,Place
+Livingston Field Park,park,False,41.8718554,-87.681153,Place
+Patterson Park,park,False,41.8702701,-87.680832,Place
+Loews Chicago Downtown,hotel,True,41.8898641,-87.6190926,Place
+London House Chicago,hotel,True,41.8877548,-87.62530500000001,Place
+Margaret Donahue Park,park,False,41.94190389999999,-87.6601998,Place
+"The Hoxton, Chicago",hotel,False,41.885889899999995,-87.6491367,Place
+Park Number 574,park,False,41.878253199999996,-87.6905708,Place
+Park No. 536,park,False,41.907408800000006,-87.6623975,Place
+Jesse White Park,park,False,41.89698789999999,-87.6392994,Place
+Wood Park,park,False,41.934718399999994,-87.6833302,Place
+Honoré Park,park,False,41.89839349999998,-87.6737964,Place
+Guadalupe Reyes Park,park,False,41.8565022,-87.6476647,Place
+Campbell Park,park,True,41.87258179999999,-87.6825384,Place
+Park No. 535,park,False,41.9160304,-87.648786,Place
+Daniel Hale Williams Park,park,False,41.84305199999999,-87.6283351,Place
+Baraga Park,park,False,41.847252799999985,-87.6810642,Place
+Barrett Park,park,False,41.85243759999999,-87.67665650000002,Place
+Starr Park,park,False,41.8835526,-87.6847472,Place
+Peanut Park,park,False,41.88343420000001,-87.6158979,Place
+Goose Island Overlook,park,False,41.9020976,-87.6569344,Place
+Armitage/Larrabee Plaza,park,False,41.91762510000001,-87.6439697,Place
+Riverbank Neighbors Park,park,False,41.959085200000004,-87.6939438,Place
+Park No. 578,park,False,41.88366380000001,-87.6748544,Place
+Sintic Park,park,False,41.842521100000006,-87.6411913,Place
+Hotel Riu Plaza Chicago,hotel,True,41.8935944,-87.6232845,Place
+North President's Court,park,False,41.877127400000006,-87.62159710000002,Place
+South President's Court,park,False,41.87440839999999,-87.6215343,Place
+Humbert Park,park,False,41.838339799999986,-87.64299830000002,Place
+Hyatt House Chicago West Loop-Fulton Market,hotel,False,41.8832666,-87.6552347,Place
+Privet Park,park,False,41.91508600000001,-87.6535322,Place
+Merryman Park,park,False,41.9499975,-87.6705034,Place
+City Suites Hotel,hotel,False,41.939768900000004,-87.6528805,Place
+Hotel Zachary,hotel,False,41.947745399999995,-87.6573332,Place
+Carousel,attraction,False,41.891418800000004,-87.6078872,Place
+Mid-North Park,park,False,41.9235941,-87.6390717,Place
+Viceroy Chicago,hotel,False,41.902396,-87.6289158,Place
+Advocate Park,park,False,41.9379621,-87.6520816,Place
+Halsted Street,commuter rail,True,41.8604155,-87.6473136,Place
+Wolf Point Riverwalk,park,False,41.8875451,-87.6374671,Place
+Chicago Riverwalk,park,True,41.8872333,-87.6258246,Place
+Nobu Hotel,hotel,False,41.8847442,-87.6494527,Place
+Jaslin Hotel,hotel,False,41.8525941,-87.6343424,Place
+Jane Addams Memorial Park,park,False,41.892558099999995,-87.6126302,Place
+Newberry Elementary Playground,park,False,41.9146451,-87.6468043,Place
+Home2 Suites by Hilton Chicago River North,hotel,False,41.89506479999999,-87.6315672,Place
+DePaul University Quad,park,False,41.92479989999999,-87.65636800000001,Place
+Moxy Chicago Downtown,hotel,False,41.891847,-87.6329822,Place
+Lincoln Central Park,park,False,41.920311500000004,-87.641942,Place
+"Hilton Garden Inn, Hampton Inn, & Home2 Suites",hotel,False,41.85258030000001,-87.6230309,Place
+Buckingham Fountain,attraction,True,41.8758019,-87.6189721,Place
+Clybourn,commuter rail,True,41.91702689999999,-87.6681783,Place
+Hyatt Place Chicago / Wicker Park,hotel,False,41.9103975,-87.667308,Place
+Fred Anderson Park,park,False,41.8594844,-87.6251616,Place
+Prairie District Park,park,False,41.8545987,-87.6202573,Place
+Daniel Webster Park,park,False,41.86445020000001,-87.6217803,Place
+The Marquee at Block 37,hotel,False,41.88426789999999,-87.6287786,Place
+Homewood Suites by Hilton Chicago Downtown,hotel,False,41.891895299999995,-87.6262464,Place
+Centennial Wheel,attraction,True,41.8917017,-87.607475,Place
+Western Avenue,commuter rail,True,41.8577983,-87.6850211,Place
+Museum Campus/11th Street,commuter rail,True,41.8689956,-87.62168230000002,Place
+Bennett Park,park,False,41.89146369999999,-87.6163325,Place
+citizenM Chicago,hotel,False,41.88707949999999,-87.6250223,Place
+Arthington Mall,park,False,41.870395099999996,-87.6749102,Place
+Wave Swinger,attraction,False,41.8916962,-87.6078904,Place
+The Boardwalk - Confluence,park,False,41.886480999999996,-87.636478,Place
+The Jetty,park,False,41.887141899999996,-87.634822,Place
+The Water Plaza,park,False,41.887144600000006,-87.6332473,Place
+The River Theater,park,False,41.887143099999996,-87.6317535,Place
+The Cove,park,False,41.88715839999999,-87.6302977,Place
+The Marina,park,False,41.88716999999999,-87.62879310000001,Place
+Pier Park Mini-Golf,attraction,False,41.8916833,-87.60808070000002,Place
+Light Tower,attraction,False,41.8919789,-87.60785579999998,Place
+Japanese Macaque,attraction,False,41.92223309999999,-87.6343438,Place
+Seal,attraction,False,41.921504899999995,-87.6343962,Place
+African Penguin,attraction,False,41.9232246,-87.6334023,Place
+"Giraffe, Plains Zebra",attraction,False,41.923441700000005,-87.6338645,Place
+Polar Bears,attraction,False,41.92395590000002,-87.6335974,Place
+Eastern Black Rhinoceros,attraction,False,41.9237225,-87.6343738,Place
+Baby Eastern Black Rhinoceros,attraction,False,41.9230321,-87.6343074,Place
+Red River Hog,attraction,False,41.922689099999985,-87.6337633,Place
+African Painted Dog,attraction,False,41.9224842,-87.63392680000001,Place
+Western Lowland Gorilla,attraction,False,41.920249000000005,-87.6324234,Place
+Chimpanzee,attraction,False,41.91997309999999,-87.6321681,Place
+Grevy's Zebra,attraction,False,41.9196084,-87.63241040000001,Place
+Chacoan Peccary,attraction,False,41.91896459999999,-87.6320664,Place
+Bactrian Camel,attraction,False,41.9187472,-87.6323183,Place
+Red Kangaroo,attraction,False,41.9188071,-87.6325602,Place
+Patagonian Cavy,attraction,False,41.91903070000001,-87.632587,Place
+Ostrich,attraction,False,41.9191951,-87.6327148,Place
+Muscovy Duck,attraction,False,41.91942019999999,-87.6328167,Place
+Père David's Deer,attraction,False,41.919646699999994,-87.6330263,Place
+Trumpeter Swan,attraction,False,41.92080339999998,-87.63385930000001,Place
+Chilean Flamingo,attraction,False,41.9201301,-87.6336391,Place
+River Otter,attraction,False,41.9213285,-87.634963,Place
+American Beaver,attraction,False,41.92090219999999,-87.6350031,Place
+Red Wolf,attraction,False,41.9213824,-87.6352652,Place
+Black Bear,attraction,False,41.9206455,-87.6351602,Place
+Rabbit,attraction,False,41.9175218,-87.6339704,Place
+Chicken,attraction,False,41.91724440000001,-87.6339636,Place
+Pony,attraction,False,41.91676170000001,-87.6332505,Place
+Pig,attraction,False,41.917189400000005,-87.6332596,Place
+Cow,attraction,False,41.9175678,-87.6334071,Place
+Goat,attraction,False,41.91767029999999,-87.6338134,Place
+Diana Monkey,attraction,False,41.9228315,-87.6339071,Place
+Meerkat,attraction,False,41.92338250000001,-87.6341888,Place
+Aardvark,attraction,False,41.9234314,-87.6341953,Place
+Paris Metro Entryway (Metra),attraction,False,41.87697909999999,-87.6239462,Place
+McCormick Square,park,False,41.8513027,-87.6184485,Place
+Hyatt Regency McCormick Place,hotel,False,41.85196639999999,-87.6179015,Place
+Margate Park,park,False,41.9728207,-87.6503412,Place
+Lawrence House Patio,park,False,41.9695609,-87.655892,Place
+26th Street Park,park,False,41.8452516,-87.6348954,Place
+Park No. 474,park,True,41.83550939999999,-87.6275114,Place
+Lincoln Common Playground,park,False,41.9244712,-87.6465737,Place
+Alcott Park,park,False,41.9301158,-87.6455933,Place
+Riverwalk East,park,False,41.888025899999995,-87.6173665,Place
+Southbank Park,park,False,41.873469199999995,-87.6346838,Place
+Ferd Kramer Memorial Garden,park,False,41.871997199999996,-87.6296074,Place
+Elysian Field,park,False,41.8764519,-87.6468504,Place
+Park at 150 N Riverside,park,False,41.88508689999999,-87.6386523,Place
+SpringHill Suites Chicago Chinatown,hotel,False,41.849716999999984,-87.6315053,Place
+Majestic Inn,hotel,False,41.94752220000001,-87.644236,Place
+Harry W. Pearce Memorial Grove,park,False,41.8701388,-87.6503824,Place
+St. Vincent's Circle,park,False,41.92466219999999,-87.6555493,Place
+Cascade Park,park,False,41.886088900000004,-87.6150265,Place
+The Green at 320,park,False,41.8772598,-87.6405213,Place
+Sain Park,park,False,41.880503299999994,-87.6878837,Place
+The Park at NTA,park,False,41.85238160000001,-87.6287707,Place
+Park No. 512,park,False,41.91447029999999,-87.66845100000002,Place
+"Hotel Chicago Downtown, Autograph Collection",hotel,False,41.888672699999994,-87.6288489,Place
+Gill Park,park,True,41.952192399999994,-87.6504129,Place
+Dad's Park,park,False,41.9228402,-87.63893030000001,Place
+Hampton Inn & Suites Chicago Medical District UIC,hotel,False,41.87280990000001,-87.6781508,Place
+Healing Garden,park,False,41.87201520000001,-87.6686925,Place
+Vietnam Survivors Memorial,park,False,41.8708432,-87.6833491,Place
+Northern Trust open space,park,False,41.88097769999999,-87.6335563,Place
+Hampton Majestic Chicago Theatre District,hotel,False,41.88090859999999,-87.6285779,Place
+Cambria Chicago Loop - Theatre District,hotel,True,41.8846765,-87.6288616,Place
+The Willis Terrace,park,False,41.8785083,-87.6359917,Place
+Drop Tower,attraction,False,41.8918644,-87.6078707,Place
+Tea Cups,attraction,False,41.8915731,-87.6078265,Place
+Wild Mile,park,False,41.90679589999999,-87.6518851,Place
+Gallagher Way,park,False,41.948161199999994,-87.6569678,Place
+Ogden Plaza,park,True,41.890282,-87.6199496,Place
+theMart River Park,park,False,41.887911100000004,-87.635154,Place
+Polk Street Pier,park,False,41.8720826,-87.6349264,Place
+National Public Housing Museum,museum,True,41.8698693,-87.6597742,Place
+Chicago Hilton & Towers,hotel,True,41.872508199999984,-87.6251165,Place
+The Butterfly House,attraction,False,41.892394999999986,-87.6106469,Place
+851 Gunnison Commons,park,False,41.96985299999999,-87.6522023,Place
+McCormick Place,commuter rail,True,41.851689,-87.6164754,Place
+Bridgeport Village Circle Park,park,False,41.83329499999999,-87.6584572,Place
+Filbert Park,park,True,41.95351639999999,-87.6750462,Place
+Icky Park,park,False,41.915968299999996,-87.65297520000001,Place
+Medical Sciences Courtyard,park,False,41.870187699999995,-87.6727656,Place
+Atkins Garden,park,False,41.8713365,-87.6710493,Place
+Buena Park Neighborhood Association Garden,park,False,41.9584876,-87.6462817,Place
+Peace Garden,park,False,41.958674,-87.6455588,Place
+Snowberry Park,park,False,41.89388379999999,-87.6742166,Place
+Hudson Chess Park,park,False,41.91485459999999,-87.6396332,Place
+Shrine Meditation Garden,park,False,41.92894569999999,-87.6405636,Place
+IMD Park,park,False,41.87434669999999,-87.6743315,Place
+Global Covid=19 Memorial Park,park,False,41.8720033,-87.6771033,Place
+Hyatt Place Chicago - Medical / University District,hotel,False,41.8738377,-87.6727073,Place
+butterfly garden,park,False,41.9495238,-87.6861035,Place
+Club Quarters Central Loop Hotel,hotel,False,41.8793184,-87.631192,Place
+The Ritz-Carlton Chicago,hotel,False,41.89782280000001,-87.6222827,Place
+The Royal Sonesta Chicago River North,hotel,False,41.89114929999999,-87.6278016,Place
+Holiday Inn Chicago Mart Plaza,hotel,False,41.888135600000005,-87.6378473,Place
+360 Chicago,viewpoint,False,41.898979799999985,-87.6231763,Place
+SkyDeck Chicago Willis Tower,attraction,True,41.87850459999999,-87.6358868,Place
+Courtyard Chicago Downtown/River North,hotel,False,41.8902477,-87.62768,Place
+Money Museum,museum,True,41.87832999999999,-87.632568,Place
+"The Langham, Chicago",hotel,False,41.88842389999999,-87.6275117,Place
+McCormick Bridgehouse & Chicago River Museum,museum,True,41.88849539999999,-87.6246857,Place
+Polish Museum of America,museum,True,41.8996737,-87.66105,Place
+Loyola University Museum of Art,museum,True,41.89732889999999,-87.6250576,Place
+The Museum of Contemporary Photography,museum,True,41.8742073,-87.6245139,Place
+Richard H. Driehaus Museum,museum,True,41.89428459999999,-87.6265031,Place
+Baumhart Lodging at Loyola University Chicago,hotel,False,41.897687999999995,-87.6271039,Place
+State and Grand by BridgeStreet,hotel,False,41.8910054,-87.6277533,Place
+Residence Inn Chicago Downtown/River North,hotel,False,41.88952209999999,-87.6298273,Place
+SpringHill Suites Chicago Downtown/River North,hotel,False,41.889664399999994,-87.6298061,Place
+Hyatt Place Chicago / River North,hotel,False,41.89118719999999,-87.6309174,Place
+Aloft Chicago City Center,hotel,False,41.8914658,-87.6308226,Place
+Grand Plaza,hotel,False,41.8919091,-87.6284859,Place
+Manilow Suites at The Grand Plaza,hotel,False,41.8920935,-87.6292964,Place
+The River Hotel,hotel,False,41.887658299999984,-87.6255595,Place
+The Buckingham Hotel,hotel,False,41.875839600000006,-87.6326786,Place
+Weather Bell,attraction,False,41.880611299999984,-87.63070110000001,Place
+Hotel EMC2,hotel,False,41.893564500000004,-87.6216316,Place
+Dreihaus Gallery of Stained Glass,museum,False,41.891464500000005,-87.6013562,Place
+The Wave Wall,attraction,False,41.8912454,-87.60757860000001,Place
+Chicago Union Station,commuter rail,True,41.878641099999996,-87.6390928,Place
+American Writers Museum,museum,True,41.8855608,-87.6249909,Place
+Ravenswood,commuter rail,True,41.96791989999999,-87.6744751,Place
+Begin Route 66,attraction,True,41.87961450000001,-87.6246298,Place
+Hampton Inn Chicago West Loop Fulton Market Area,hotel,False,41.88362909999999,-87.643003,Place
+Millennium Station,commuter rail,True,41.884408999999984,-87.6236902,Place
+Van Buren Street,commuter rail,True,41.8769281,-87.6229217,Place
+Chicago Architecture Center,museum,True,41.88801309999999,-87.6236228,Place
+North Overlook,viewpoint,False,41.892424200000015,-87.6007671,Place
+South Overlook,viewpoint,False,41.891110299999994,-87.6007425,Place
+Dwarf Crocodile,attraction,False,41.92294769999999,-87.6339882,Place
+Klipspringer,attraction,False,41.9232763,-87.6340967,Place
+LaSalle Street Station,commuter rail,True,41.875314800000005,-87.63221730000001,Place
+Ogilvie Transportation Center,commuter rail,True,41.88378729999999,-87.6405272,Place
+Dolphin,attraction,False,41.86791899999999,-87.6130245,Place
+Beluga,attraction,False,41.86733169999999,-87.6130031,Place
+Sea Lion,attraction,False,41.8674176,-87.6132257,Place
+Sea Otter,attraction,False,41.86786330000001,-87.6132034,Place
+Penguins,attraction,False,41.867599199999994,-87.6132033,Place
+Chicago Children's Museum,museum,True,41.891471999999986,-87.6092029,Place
+Park Hyatt Chicago,hotel,False,41.8972351,-87.6252667,Place
+Hampton Inn & Suites Chicago Downtown/Magnificent Mile,hotel,False,41.89525179999999,-87.6229806,Place
+Homewood Suites by Hilton Chicago Downtown/Magnificent Mile,hotel,False,41.8952458,-87.6233239,Place
+Ukrainian National Museum,museum,True,41.894607,-87.6840067,Place
+Waller Apartments,attraction,True,41.88563069999999,-87.6983895,Place
+Museum of Illusions,museum,False,41.88306049999999,-87.626843,Place
+Homewood Suites West Loop Fulton Market Area,hotel,False,41.883767799999994,-87.6430103,Place
+Canopy by Hilton Chicago Central Loop,hotel,False,41.8784445,-87.6350632,Place
+Homewood Suites by Hilton - Chicago Downtown South Loop,hotel,False,41.86917909999999,-87.6253081,Place
+Hilton Garden Inn Chicago Downtown South Loop,hotel,False,41.8691754,-87.6255333,Place
+Lincoln Park Passerelle Viewpoint,viewpoint,False,41.915343099999994,-87.6275402,Place
+The Gwen,hotel,False,41.891280299999984,-87.6251877,Place
+Graveface Chicago / Terror Vision,museum,False,41.9146751,-87.6838536,Place
+The LaSalle Chicago,hotel,False,41.879084299999995,-87.6324884,Place
+JW Marriott Chicago,hotel,False,41.879265999999994,-87.6330277,Place
+Chicago Sports Museum,museum,True,41.8980264,-87.6220778,Place
+The Ledge,attraction,False,41.878889599999994,-87.636323,Place
+Color Factory,museum,False,41.87837530000001,-87.6358062,Place
+Wendella Tours - Dock 3,attraction,False,41.8891219,-87.6256125,Place
+Wendella Tours - Dock 4,attraction,False,41.8889311,-87.6259394,Place
+Wendella Tours - Michigan Avenue,attraction,False,41.88922149999999,-87.6246397,Place
+Pritzker Military Museum & Library,museum,True,41.88061969999999,-87.6246632,Place
+Museum of Ice Cream,attraction,False,41.8903401,-87.6228616,Place
+Ewing Annex Hotel,hotel,False,41.87626319999999,-87.6309095,Place
+Odyssey Chicago River,attraction,False,41.888977399999995,-87.6216288,Place
+Sonder Greektown,hotel,False,41.877401,-87.6475113,Place
+Children's Museum of Art and Social Justice,museum,False,41.85509319999999,-87.6463776,Place
+WNDR Museum,museum,False,41.880525000000006,-87.6559982,Place
+The Haitian American Museum of Chicago,museum,False,41.962067899999994,-87.6662477,Place
+Chicago Maritime Museum,museum,False,41.8315361,-87.6566736,Place
+Cambria Hotel Chicago Loop - Theatre District,hotel,False,41.88464080000001,-87.629045,Place
+DoubleTree Hotel Chicago - Magnificent Mile,hotel,False,41.8928119,-87.6199576,Place
+Hilton Grand Vacations Club Chicago Magnificent Mile,hotel,False,41.89281259999999,-87.6198122,Place
+Flyover,attraction,False,41.89190349999999,-87.6090681,Place
+Little Prairie on the Campus,park,False,41.8680043,-87.6673743,Place
+The Publishing House Bed & Breakfast,hotel,False,41.8831559,-87.6557867,Place
+Chicago Board of Trade Building Museum,museum,False,41.87798869999998,-87.6320684,Place
+Montrose Moonrise Observation Point,viewpoint,False,41.95950499999999,-87.6391257,Place
+Heritage Museum of Asian Art,museum,False,41.8305279,-87.6512007,Place
+The Hotel At Midtown,hotel,False,41.9257643,-87.679569,Place
+Museum of Broadcast Communications,museum,True,41.88460379999999,-87.6393207,Place
+Dr. Sun Yat Sen Museum,museum,False,41.8515309,-87.6318577,Place
+Jane Byrne Interchange and BSB,viewpoint,False,41.873903899999995,-87.6509272,Place
+Chicago Skyline,viewpoint,False,41.8427775,-87.647911,Place
+Stearns Quarry,viewpoint,False,41.8436921,-87.64982540000001,Place
